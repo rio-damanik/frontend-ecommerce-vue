@@ -120,6 +120,7 @@ export default {
 
 .header {
   .top-bar {
+    
     background: #f8f8f8;
     padding: 8px 48px;
     display: flex;
@@ -156,10 +157,12 @@ export default {
     justify-content: space-between;
     align-items: center;
     border-bottom: 1px solid #eee;
+   
 
     .nav-links {
       display: flex;
       gap: 48px;
+      margin-left: 50px;
 
       .nav-link {
         text-decoration: none;
@@ -171,6 +174,7 @@ export default {
     .nav-icons {
       display: flex;
       gap: 24px;
+      margin-left: auto;
 
       img {
         cursor: pointer;
