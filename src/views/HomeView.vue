@@ -431,7 +431,7 @@ export default {
 
 /* Footer Section */
 .footer-section {
-  background-color: #1a1a1a;
+  background-color:#3d3d3d;
   color: white;
   padding: 60px 0;
   width: 100%;
