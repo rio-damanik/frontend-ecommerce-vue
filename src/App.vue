@@ -179,6 +179,18 @@ export default {
   }
 }
 
+.language {
+  display: flex;
+  align-items: center;
+  gap: 8px;  /* adds space between the image and text */
+  height: 100%;  /* matches the height of other nav items */
+}
+
+.language img {
+  width: 20px;  /* adjust size as needed */
+  height: 20px;  /* adjust size as needed */
+}
+
 .hero {
   height: 600px;
   background-image: url('@/assets/assesthero.jpeg');
