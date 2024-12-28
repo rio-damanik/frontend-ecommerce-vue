@@ -15,4 +15,11 @@ export default {
 
 <style scoped lang="scss">
 .men-view {
-  padding: 48px;                                                                            
+  padding: 48px;                                                                                            
+
+  h1 {
+    text-align: center;
+    margin-bottom: 32px;
+  }
+}
+</style>
